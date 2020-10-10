@@ -1,4 +1,4 @@
-ILLUD
+# ILLUD
 
 🟥ILLUD is a fast reaction game, to test your skills🟥
 
